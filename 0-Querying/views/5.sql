@@ -1,3 +1,3 @@
 SELECT MAX("contrast") AS "Maximum Contrast"
-FROM "views";
-WHERE "artist" = 'Hokusai'
+FROM "views"
+WHERE "artist" = 'Hokusai';
