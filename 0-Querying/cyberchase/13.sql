@@ -1,8 +1,8 @@
 -- Which episodes from later seasons (10+) discuss probability?
 
 SELECT 
-    "season", "title", "topic"
+    season, title, topic
 FROM
-    "episodes"
+    episodes
 WHERE
-    "season" >= 10 AND "topic" LIKE '%Probability%';
+    season >= 10 AND topic LIKE '%Probability%';
