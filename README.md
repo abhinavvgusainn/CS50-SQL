@@ -8,13 +8,13 @@ These files are intended to give you a sense of how to approach the problems **o
 
 ### Querying
 
-* [Cyberchase](/cyberchase)
-* [36 Views](/views)
-* [Normals](/normals)
-* [Players](/players)
+* [Cyberchase](0-Querying/cyberchase)
+* [36 Views](0-Querying/views)
+* [Normals](0-Querying/normals)
+* [Players](0-Querying/players)
 
 ### Relating
 
-* [Packages, Please](/packages)
-* [DESE](/dese)
-* [Moneyball](/moneyball)
+* [Packages, Please](1-Relating/packages)
+* [DESE](1-Relating/dese)
+* [Moneyball](1-Relating/moneyball)
